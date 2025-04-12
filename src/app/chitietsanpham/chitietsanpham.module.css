@@ -1,0 +1,28 @@
+.chitietsanpham{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.mainContent{
+    width: 1100px;
+}
+.gioithieu{
+    height: 300px;
+    border: 1px solid #3ae51c;
+    display: flex;
+
+}
+.mota{
+    height: 500px;
+    border: 1px solid #2574ea;
+}
+.hinhanh{
+    width: 700px;
+    height: 300px;
+    border: 1px solid #8b2aab;
+}
+.gia{
+    width: 400px;
+    height: 300px;
+    border: 1px solid #eb9008;
+}
